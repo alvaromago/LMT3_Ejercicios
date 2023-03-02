@@ -1,0 +1,30 @@
+#primero {
+    text-align: justify;
+    background-color: aquamarine;
+    margin: 15px 30px 40px 20px; /* espacio exterior */
+    float: left;
+    width: 300px;
+}
+
+#segundo {
+    text-align: justify;
+    background-color: yellow;
+    padding: 15px 30px 40px 20px; /* espacio interior */
+    float: right;
+    width: 300px;
+}
+
+#tercero {
+    text-align: justify;
+    background-color: orange;
+    border: 5px;
+    border-style: dashed;
+    float: left;
+    width: 300px;
+}
+
+#imgblicky {
+    width: 200px;
+    float: left;
+    margin: 5px;
+}

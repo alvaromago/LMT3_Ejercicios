@@ -1,0 +1,107 @@
+h1.yo {
+    color: red;
+    background-color: green;
+}
+
+p.ej5 {
+    color: blue;
+}
+
+h1.ej5 {
+    color: orange;
+}
+
+h1.ej6 {
+    color: green;
+    font-style: italic;
+}
+
+p.ej6 {
+    font-style: italic;
+    color: red;
+}
+
+.numero {
+    color: pink;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: grey;
+}
+
+a:hover {
+    background-color: red;
+    color: white;
+}
+
+a:active {
+    color: greenyellow;
+}
+
+p.ej10 {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+h1.ej10 {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.fverde {
+    background-color: #6fff00;
+}
+
+.margen1ej10 {
+    margin-left: 20px;
+}
+
+.margen2ej10 {
+    margin-left: 40px;
+}
+
+.fcyan {
+    background-color: cyan;
+    color: white;
+}
+
+.listaej11 {
+    display: flex;
+    margin: auto;
+}
+
+ul#barranavegacion {
+    display: flex;
+    background-color: black;
+    color: white;
+    font-size: 125%;
+    list-style: none;
+    text-align: center;
+}
+
+p#parrafo1 {
+    padding: 0px 150px 0px 150px;
+    border: 15px;
+}
+
+p#parrafo2 {
+    padding: 0px 150px 0px 150px;
+    border: 15px;
+}
+
+div#contenedor_general {
+    
+}
+
+div#primer_contenedor {
+
+}
+
+div#segundo_contenedor a:hover {
+    background-color: red;
+}

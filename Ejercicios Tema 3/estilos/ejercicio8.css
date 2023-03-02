@@ -1,0 +1,58 @@
+h1 {
+    color: green;
+}
+
+.red {
+    color: red;
+    font-weight: bold;
+}
+
+.orange {
+    color: orange;
+}
+
+h2 {
+    color: blue;
+}
+
+.sred {
+    color: red;
+    text-decoration-line: underline;
+}
+
+.sblue {
+    color: blue;
+    font-style: italic;
+}
+
+.purple {
+    color: rgb(226, 0, 226);
+}
+
+.blue {
+    color: blue;
+}
+
+.fonttable {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.yellow {
+    color: rgb(245, 245, 0);
+}
+
+.green {
+    color: green;
+}
+
+.red2 {
+    color: rgb(158, 0, 0);
+}
+
+.borde {
+    border-collapse: collapse;
+}
+
+.sangria {
+    text-align:justify;
+}
